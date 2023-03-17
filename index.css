@@ -1,0 +1,117 @@
+/* Global styles */
+
+* {
+	box-sizing: content-box;
+	margin: 100;
+	padding: 100;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	line-height: 1.1;
+	color: #ffffff;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* Header styles */
+
+header {
+	background-color: #ffffff;
+	padding: 20px;
+}
+/* Define the logo image size and position */
+
+  
+h1 {
+	font-size: 55px;
+	font-weight: bold;
+	color: #ffffff;
+	margin: 0;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	color:#f8f8f8
+}
+
+nav li {
+	margin-left: 80px;
+}
+
+nav a {
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+.logo img {
+	height: 50px;
+	margin: right z-index
+  }
+  
+  .logo h1 {
+	display: -moz-inline-grid;
+	font-size: 46px;
+	margin: 0;
+	padding: 10px 0;
+  }
+
+/* Hero section styles */
+
+
+
+/* News section styles */
+
+.news {
+	margin: 40px 0;
+}
+
+.news h3 {
+	font-family: "sonar bangla";
+	font-size: 32px;
+	font-weight: bold;
+	color:  #000000;
+	margin-bottom: 20px;
+}
+
+.news article {
+	margin-bottom: 40px;
+}
+
+.news article h4 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #100f0c;
+	margin-bottom: 10px;
+}
+
+.news article p {
+	font-size: 18px;
+	color: #0e0d08;
+	margin-bottom: 20px;
+}
+
+/* Reviews section styles */
+
+.reviews {
+	margin: 40px 0;
+}
+footer {
+    background-color: #fffefe;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
